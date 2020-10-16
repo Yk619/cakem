@@ -1,0 +1,151 @@
+.skin-blue .main-sidebar{
+
+    background-color: #00542d!important;
+
+}
+.content-wrapper {
+    background-color: #f5f5f5;
+
+}
+.bg-aqua{
+
+    background: linear-gradient(#2f4d0f,#000000) !important;
+    border-radius: 10px;
+
+}
+.bg-green{
+    background: linear-gradient(#72ba3c,#000000) !important;
+    border-radius: 10px
+}
+.bg-yellow{
+    background: linear-gradient(#b4d055,#000000) !important;
+    border-radius: 10px
+}
+.bg-red{
+    background: linear-gradient(#93b101,#000000) !important;
+    border-radius: 10px
+}
+.bg-teal-gradient {
+    color: #fff;
+}
+.nav .nav-tabs .pull-right .ui-sortable-handle{
+   color: #00542d!important;
+
+}
+.tab-content .no-padding .chart .tab-pane .active #revenue-chart{
+color: #00542d!important;
+
+}
+.skin-blue .main-header .navbar {
+
+    background-color: #00542d;
+
+}
+.skin-blue .main-header .logo:hover {
+    background-color: #ffffff;
+}
+.skin-blue .main-header .logo {
+    background-color: #ffffff;
+    color: #fff;
+    border: 1px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
+}
+#revenue-chart>svg>text,circle{
+ fill: #00542d!important;
+
+}
+#revenue-chart{
+ background-color: #ffffff!important;
+
+}
+#revenue-chart>svg>path{
+ background-color: #ffffff!important;
+ stroke: #00542d!important;
+ fill: #ffffff!important;
+
+}
+.bg-teal{
+    background-color: #00542d !important;
+
+}
+.box-header {
+
+    color: #00542d!important;
+    
+
+}
+.box.box-info {
+
+    border-top-color: #00542d;
+
+}
+.box.box-primary {
+
+    border-top-color: #00542d;
+
+}
+a {
+    color: #00542d;
+
+}
+.btn-primary:hover, .btn-primary:active, .btn-primary.hover {
+    background-color: #00542d;
+}
+.box-body .no-padding{
+background-color: #ffffff!important;
+
+
+}
+#line-chart>svg>text,circle{
+ fill: #00542d!important;
+
+}
+#line-chart{
+ background-color: #ffffff!important;
+
+}
+#line-chart>svg>path{
+ background-color: #ffffff!important;
+ stroke: #00542d!important;
+ fill: #ffffff!important;
+
+}
+.progress-bar-green, .progress-bar-success {
+
+    background-color: #00542d!important;
+
+}
+.bg-green-gradient {
+background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #ffff), color-stop(1, #00542d))!important;
+}
+.bg-light-blue-gradient {
+background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #ffff), color-stop(1, #ffffff))!important;
+
+}
+.btn-primary {
+
+    background-color: #00542d !important;
+
+
+}
+.bg-teal-gradient{
+
+     background-color: #00542d !important;
+}
+.bg-teal-gradient{
+    background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #00542d), color-stop(1, #ffffff))!important;
+
+}
+.knob{
+    color: #00542d !important;
+}
+.pagination>.active>span{
+    background-color: #00542d !important;
+}
+.content-header>h1{
+    color:#00542d !important;
+}
+.table th{
+    background-color: #00542d !important;
+    color: #ffffff !important;
+}
